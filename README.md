@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Racerin
-- 👀 I’m interested in Music, Creating Electrical and Mechanical Products, Python Programming.
-- 🌱 I’m currently learning Web Development with the Flask (Python3) Framework.
+- 👀 I’m interested in Music, Motorcycles, Creating Products, Python Programming.
+- 🌱 I’m currently learning Web Development with the Django (Python3) Framework.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? My e-mail: drsbaird@yahoo.com.
 
